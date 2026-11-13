@@ -1,73 +1,39 @@
-# DevStore – E-commerce Web Application
 
-A responsive e-commerce web application built using React.js. DevStore provides a simple and user-friendly shopping experience with product browsing, search, category filtering, product details, and wishlist management.
+# 🛒 DevStore - E-commerce Web Application
+
+A modern e-commerce web application built using React.js.
 
 ## 🚀 Features
-
-- Browse available products
-- Search products
-- Filter products by category
-- View product details
-- Add products to wishlist
 - Responsive user interface
+- Product listing
+- Product browsing
+- Reusable React components
+- Modern UI design
 
-## 🛠️ Technologies Used
-
+## 🛠️ Technologies
 - React.js
 - JavaScript
 - HTML5
 - CSS3
-- Vite
-- Git & GitHub
 
-## 📂 Project Setup
+## ⚙️ Installation
 
-Follow these steps to run the project locally.
+1. Clone the repository
 
-**1. Clone the repository**
+   git clone https://github.com/Dalchandahir-78/DevStore-E-commerce-Web-Application.git
 
-```bash
-git clone https://github.com/Dalchandahir-78/DevStore-E-commerce-Web-Application.git
-```
+2. Open project folder
 
-**2. Open the project folder**
+   cd DevStore-E-commerce-Web-Application
 
-```bash
-cd DevStore-E-commerce-Web-Application
-```
+3. Install dependencies
 
-**3. Install dependencies**
+   npm install
 
-```bash
-npm install
-```
+4. Start development server
 
-**4. Start the development server**
+   npm run dev
 
-```bash
-npm run dev
-```
+## 👨‍💻 Developer
 
-Open the local URL shown in your terminal to view the application.
-
-## 📸 Screenshots
-
-Screenshots coming soon.
-
-## 🔮 Future Improvements
-
-- User authentication
-- Shopping cart functionality
-- Backend API integration
-- Payment gateway integration
-- Order management
-
-## 👨‍💻 Author
-
-**Dalchand Ahirwar**
-
-GitHub: [Dalchandahir-78](https://github.com/Dalchandahir-78)
-
----
-
-⭐ If you like this project, consider giving it a star!
+Dalchand Ahirwar
