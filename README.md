@@ -1,16 +1,73 @@
-# React + Vite
+# DevStore – E-commerce Web Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A responsive e-commerce web application built using React.js. DevStore provides a simple and user-friendly shopping experience with product browsing, search, category filtering, product details, and wishlist management.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- Browse available products
+- Search products
+- Filter products by category
+- View product details
+- Add products to wishlist
+- Responsive user interface
 
-## React Compiler
+## 🛠️ Technologies Used
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React.js
+- JavaScript
+- HTML5
+- CSS3
+- Vite
+- Git & GitHub
 
-## Expanding the Oxlint configuration
+## 📂 Project Setup
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+Follow these steps to run the project locally.
+
+**1. Clone the repository**
+
+```bash
+git clone https://github.com/Dalchandahir-78/DevStore-E-commerce-Web-Application.git
+```
+
+**2. Open the project folder**
+
+```bash
+cd DevStore-E-commerce-Web-Application
+```
+
+**3. Install dependencies**
+
+```bash
+npm install
+```
+
+**4. Start the development server**
+
+```bash
+npm run dev
+```
+
+Open the local URL shown in your terminal to view the application.
+
+## 📸 Screenshots
+
+Screenshots coming soon.
+
+## 🔮 Future Improvements
+
+- User authentication
+- Shopping cart functionality
+- Backend API integration
+- Payment gateway integration
+- Order management
+
+## 👨‍💻 Author
+
+**Dalchand Ahirwar**
+
+GitHub: [Dalchandahir-78](https://github.com/Dalchandahir-78)
+
+---
+
+⭐ If you like this project, consider giving it a star!
